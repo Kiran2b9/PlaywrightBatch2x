@@ -16,16 +16,26 @@ LearnPlaywrightBatch2x/
 │   ├── 05_JS_Basics.js
 │   ├── 06_Identifiers_Rules.js
 │   ├── 07_Identifiers_part2.js
-│   └── 08_Comments.js
+│   ├── 08_Comments.js
+│   └── 09_Var_Let_Const.js
 │
 ├── chapter_02_Javascript_Concept/
-│   └── (Coming Soon)
+│   └── (Concept files)
 │
 ├── chapter_03_Identifier_Literals/
 │   ├── identifier_examples.js
 │   ├── 07_Identifier_Cases.js
 │   ├── 07_identifier_Part2.js
 │   └── vs_code_keyboard_shortcut_windows.md
+│
+├── Chapter_04_Literal/
+│   └── (Literal examples)
+│
+├── 25_Literal_All.js
+├── 26_Literal_Number_all.js
+├── 27_String.js
+├── 28_Template_literal.js
+├── 29_Bactick_single_double.js
 │
 └── README.md
 ```
@@ -43,7 +53,7 @@ Introduction to JavaScript fundamentals:
 - Comments
 
 ### Chapter 02: JavaScript Concepts
-Advanced JavaScript concepts (coming soon).
+Advanced JavaScript concepts.
 
 ### Chapter 03: Identifiers & Literals
 Comprehensive guide to JavaScript identifiers and naming conventions:
@@ -51,6 +61,14 @@ Comprehensive guide to JavaScript identifiers and naming conventions:
 - **07_Identifier_Cases.js** - Overview of naming conventions (camelCase, PascalCase, snake_case, etc.)
 - **07_identifier_Part2.js** - Detailed examples for all naming conventions with usage guide
 - **vs_code_keyboard_shortcut_windows.md** - Complete VS Code keyboard shortcuts reference for Windows
+
+### Chapter 04: Literals & Strings
+JavaScript literals and string examples:
+- **25_Literal_All.js** - All literal types overview
+- **26_Literal_Number_all.js** - Number literals
+- **27_String.js** - String basics
+- **28_Template_literal.js** - Template literals with backticks
+- **29_Bactick_single_double.js** - Difference between backtick, single, and double quotes
 
 ---
 
