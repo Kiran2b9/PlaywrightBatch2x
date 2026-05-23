@@ -92,10 +92,24 @@ LearnPlaywrightBatch2x/
 │   ├── 66_IQ_3.js
 │   └── 67_IQ_4.js
 │
-├── Chapter_09_Userinput/
+├── Chapter_08_Userinput
 │   ├── 68_userinput.js
 │   ├── 69_Read_line.js
 │   └── 70_Prompt_sync.js
+│
+├── Chapter_9_LOOPS.js
+│   ├── 71_For_Loop.js
+│   ├── 72_For_Loop.js
+│   ├── 73_Foor_Loop2.js
+│   ├── 74_IQ.js
+│   ├── 75_For_OF_IN_EACH.js
+│   ├── 76_While.js
+│   ├── 77_Do_While.js
+│   ├── 78_Do_While.js
+│   ├── 79_IQ.js
+│   ├── 80_IQ.js
+│   ├── 81_IQ.js
+│   └── 82_IQ.js
 │
 ├── Task_20th_May/
 │   ├── Qe_1.js
@@ -103,6 +117,10 @@ LearnPlaywrightBatch2x/
 │   ├── Qe_3.js
 │   ├── Qe_4.js
 │   └── Qe_5.js
+│
+├── Task_23rd_May/
+│   ├── 1_IQ.js
+│   └── 2_IQ.js
 │
 └── README.md
 ```
@@ -173,15 +191,31 @@ Switch-case control flow:
 - Grouped cases
 - Interview questions (IQ)
 
-### Chapter 09: User Input
+### Chapter 08: User Input
 Handling user input in JavaScript:
 - **68_userinput.js** - User input basics
 - **69_Read_line.js** - Reading input via `readline`
 - **70_Prompt_sync.js** - Synchronous prompts
 
+### Chapter 9: Loops
+Looping constructs and iterations:
+- **71_For_Loop.js** - For loop basics
+- **72_For_Loop.js** - For loop variations
+- **73_Foor_Loop2.js** - Advanced for loop examples
+- **74_IQ.js** - Loop interview questions
+- **75_For_OF_IN_EACH.js** - For...of and For...in loops
+- **76_While.js** - While loop
+- **77_Do_While.js** - Do...while loop basics
+- **78_Do_While.js** - Do...while variations
+- **79_IQ.js** through **82_IQ.js** - Loop interview questions
+
 ### Task: 20th May
 Practice tasks and exercises:
 - **Qe_1.js** through **Qe_5.js** - Assorted coding questions and solutions
+
+### Task: 23rd May
+Additional practice tasks:
+- **1_IQ.js** through **2_IQ.js** - Interview questions and coding challenges
 
 ---
 
