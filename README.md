@@ -111,6 +111,17 @@ LearnPlaywrightBatch2x/
 │   ├── 81_IQ.js
 │   └── 82_IQ.js
 │
+├── Chapter_10_Arrays.js
+│   ├── 83_Arrays.js
+│   ├── 84_Arrays.js
+│   ├── 85_Access_Array.js
+│   ├── 86_Arrays_Adding_Removing.js
+│   ├── 87_Adding_Removing.js
+│   ├── 88_REAL_Example.js
+│   ├── 89_Searching.js
+│   ├── 90_Iterate.js
+│   └── 91_Transform_Array.js
+│
 ├── Task_20th_May/
 │   ├── Qe_1.js
 │   ├── Qe_2.js
@@ -208,6 +219,18 @@ Looping constructs and iterations:
 - **77_Do_While.js** - Do...while loop basics
 - **78_Do_While.js** - Do...while variations
 - **79_IQ.js** through **82_IQ.js** - Loop interview questions
+
+### Chapter 10: Arrays
+Array methods and operations:
+- **83_Arrays.js** - Array basics
+- **84_Arrays.js** - Array variations
+- **85_Access_Array.js** - Accessing array elements
+- **86_Arrays_Adding_Removing.js** - Adding and removing elements
+- **87_Adding_Removing.js** - More adding/removing examples
+- **88_REAL_Example.js** - Real-world array examples
+- **89_Searching.js** - Searching arrays
+- **90_Iterate.js** - Iterating over arrays
+- **91_Transform_Array.js** - Transforming arrays
 
 ### Task: 20th May
 Practice tasks and exercises:
