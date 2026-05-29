@@ -120,7 +120,21 @@ LearnPlaywrightBatch2x/
 │   ├── 88_REAL_Example.js
 │   ├── 89_Searching.js
 │   ├── 90_Iterate.js
-│   └── 91_Transform_Array.js
+│   ├── 91_Transform_Array.js
+│   ├── 92_Arrays.js
+│   ├── 93_Arrays_Slicing.js
+│   ├── 94_Concat_Arrays.js
+│   └── 95_Array_Checking.js
+│
+├── Chapter_11_Function
+│   ├── 96_Function.js
+│   ├── 97_Type1_FN_Basics_Function.js
+│   ├── 98_Type2_FN_With_Parameter_Noreturn.js
+│   ├── 99_Type3_FN_Without_Parameter_Return_type.js
+│   ├── 100_Type4_FN_With_Parameter_With_Return.js
+│   ├── 101_Template_Literal.js
+│   ├── 102_FN_Expression.js
+│   └── 103_Arrow.js
 │
 ├── Task_20th_May/
 │   ├── Qe_1.js
@@ -231,6 +245,21 @@ Array methods and operations:
 - **89_Searching.js** - Searching arrays
 - **90_Iterate.js** - Iterating over arrays
 - **91_Transform_Array.js** - Transforming arrays
+- **92_Arrays.js** - Sorting arrays
+- **93_Arrays_Slicing.js** - Slicing arrays
+- **94_Concat_Arrays.js** - Concatenating arrays (concat and spread operator)
+- **95_Array_Checking.js** - Checking if a value is an array
+
+### Chapter 11: Functions
+Function types and modern syntax:
+- **96_Function.js** - Function basics and definition
+- **97_Type1_FN_Basics_Function.js** - Basic function declarations
+- **98_Type2_FN_With_Parameter_Noreturn.js** - Functions with parameters but no return
+- **99_Type3_FN_Without_Parameter_Return_type.js** - Functions without parameters but with return
+- **100_Type4_FN_With_Parameter_With_Return.js** - Functions with parameters and return values
+- **101_Template_Literal.js** - Template literals in functions
+- **102_FN_Expression.js** - Function expressions
+- **103_Arrow.js** - Arrow functions
 
 ### Task: 20th May
 Practice tasks and exercises:
