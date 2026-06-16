@@ -134,7 +134,91 @@ LearnPlaywrightBatch2x/
 │   ├── 100_Type4_FN_With_Parameter_With_Return.js
 │   ├── 101_Template_Literal.js
 │   ├── 102_FN_Expression.js
-│   └── 103_Arrow.js
+│   ├── 103_Arrow.js
+│   ├── 104_Arrow_Fn_REAL.js
+│   ├── 105_IIFE.js
+│   ├── 106_Default_Param_FN.js
+│   ├── 107_IQ.js
+│   ├── 108_Rest_Param_Fn.js
+│   ├── 109_IQ.js
+│   ├── 110_Spread_IQ.js
+│   ├── 111_SCOPE_FN.js
+│   ├── 112_IQ.js
+│   ├── 113_Closures.js
+│   ├── 114_Closure.js
+│   ├── 115_API_REAL_Closure.js
+│   ├── 116_Higher_Order_FN.js
+│   └── 117_Pure_FN.js
+│
+├── Chapter_12_Strings/
+│   ├── 118_Strings.js
+│   ├── 119_Strings_Properties.js
+│   ├── 120_Search_Check_Str.js
+│   ├── 121_Substring.js
+│   ├── 122_Transform_Str.js
+│   ├── 123_String_Conversion.js
+│   └── javascript_string_cheat_sheet.md
+│
+├── Chapter_13_Object/
+│   ├── 124_Object.js
+│   ├── 125_Objects2.js
+│   ├── 126_Object_Creation.js
+│   ├── 127_Object_REAL.js
+│   ├── 128_Primitive_Ref.js
+│   ├── 129_Object_Examples.js
+│   ├── 130_IQ.js
+│   ├── 131_Object_Function.js
+│   ├── 132_Object_Decon.js
+│   ├── 133_Spread.js
+│   ├── 134_Object_Get_Set_Method.js
+│   ├── 135_IQ.js
+│   ├── 136_Obj_REAL.js
+│   └── 137_Let_Const_Obj.js
+│
+├── Chapter_14_2D_Array/
+│   ├── 138_2D_Array.js
+│   ├── 139_2d.js
+│   ├── 140_REAL.js
+│   ├── 141_2D_Array_FN.js
+│   ├── 142_Right_Pattern_Py.js
+│   └── testdata.csv
+│
+├── Chapter_15_Callback/
+│   ├── 143_Callback.js
+│   ├── 144_CB.js
+│   ├── 145_CB_FN.js
+│   ├── 146_PW_CB.js
+│   ├── 147_JS_CB.js
+│   ├── 148_Sync_CB.js
+│   ├── 149_Async_CB.js
+│   ├── 150_Hell_CB.js
+│   ├── 151_CB_Hell_20_step.js
+│   ├── 152_CB_Param.js
+│   └── 153_CB_Return.js
+│
+├── Chapter_16_Promise/
+│   ├── 154_Promise.js
+│   ├── 155_REAL_API.js
+│   ├── 156_Promise_REAL_API_PART2.js
+│   ├── 157_Finally.js
+│   ├── 158_Call_Pyramid_Problem.js
+│   ├── 159_Promise_All.js
+│   └── 160_Promise_IQ.js
+│
+├── Chapter_17_Async_Await/
+│   ├── 161_Async.js
+│   ├── 162_Async_P2.js
+│   ├── 163_Py_of_DOM.js
+│   ├── 164_Async.js
+│   ├── 165_Async_Parallel.js
+│   ├── 165_Async_Seq.js
+│   └── 166_IQ.js
+│
+├── Chapter_18_Playwright_Basics/
+│   ├── node_modules/
+│   ├── package.json
+│   ├── package-lock.json
+│   └── sdetlive.pdf
 │
 ├── Task_20th_May/
 │   ├── Qe_1.js
@@ -147,6 +231,12 @@ LearnPlaywrightBatch2x/
 │   ├── 1_IQ.js
 │   └── 2_IQ.js
 │
+├── Test_03rd_Jun/
+│   └── QE_1.js
+│
+├── interview.md
+├── javascript_string_cheat_sheet.md
+├── string_cheat_sheet.md
 └── README.md
 ```
 
@@ -251,7 +341,7 @@ Array methods and operations:
 - **95_Array_Checking.js** - Checking if a value is an array
 
 ### Chapter 11: Functions
-Function types and modern syntax:
+Function types and modern JavaScript features:
 - **96_Function.js** - Function basics and definition
 - **97_Type1_FN_Basics_Function.js** - Basic function declarations
 - **98_Type2_FN_With_Parameter_Noreturn.js** - Functions with parameters but no return
@@ -260,6 +350,94 @@ Function types and modern syntax:
 - **101_Template_Literal.js** - Template literals in functions
 - **102_FN_Expression.js** - Function expressions
 - **103_Arrow.js** - Arrow functions
+- **104_Arrow_Fn_REAL.js** - Real-world arrow function examples
+- **105_IIFE.js** - Immediately Invoked Function Expressions
+- **106_Default_Param_FN.js** - Default parameters in functions
+- **107_IQ.js** - Function interview questions
+- **108_Rest_Param_Fn.js** - Rest parameters
+- **109_IQ.js** - Function interview questions
+- **110_Spread_IQ.js** - Spread operator interview questions
+- **111_SCOPE_FN.js** - Function scope
+- **112_IQ.js** - Scope interview questions
+- **113_Closures.js** - Closures basics
+- **114_Closure.js** - Closure examples
+- **115_API_REAL_Closure.js** - Real-world API closure example
+- **116_Higher_Order_FN.js** - Higher-order functions
+- **117_Pure_FN.js** - Pure functions
+
+### Chapter 12: Strings
+String operations and methods:
+- **118_Strings.js** - String basics
+- **119_Strings_Properties.js** - String properties
+- **120_Search_Check_Str.js** - Searching and checking strings
+- **121_Substring.js** - Substring extraction
+- **122_Transform_Str.js** - String transformation
+- **123_String_Conversion.js** - String conversion
+
+### Chapter 13: Objects
+JavaScript objects in depth:
+- **124_Object.js** - Object basics
+- **125_Objects2.js** - Object variations
+- **126_Object_Creation.js** - Object creation patterns
+- **127_Object_REAL.js** - Real-world object examples
+- **128_Primitive_Ref.js** - Primitives vs reference types
+- **129_Object_Examples.js** - Object examples
+- **130_IQ.js** - Object interview questions
+- **131_Object_Function.js** - Object methods and functions
+- **132_Object_Decon.js** - Object destructuring
+- **133_Spread.js** - Spread operator with objects
+- **134_Object_Get_Set_Method.js** - Getters and setters
+- **135_IQ.js** - Object interview questions
+- **136_Obj_REAL.js** - Real-world object scenarios
+- **137_Let_Const_Obj.js** - Objects with let and const
+
+### Chapter 14: 2D Arrays
+Two-dimensional arrays and patterns:
+- **138_2D_Array.js** - 2D array basics
+- **139_2d.js** - 2D array examples
+- **140_REAL.js** - Real-world 2D array usage
+- **141_2D_Array_FN.js** - 2D array functions
+- **142_Right_Pattern_Py.js** - Right angle pattern (pyramid)
+- **testdata.csv** - Test data in CSV format
+
+### Chapter 15: Callbacks
+Callback functions, sync vs async:
+- **143_Callback.js** - Callback basics
+- **144_CB.js** - Callback examples
+- **145_CB_FN.js** - Callback functions
+- **146_PW_CB.js** - Playwright-style callbacks
+- **147_JS_CB.js** - JavaScript callbacks
+- **148_Sync_CB.js** - Synchronous callbacks
+- **149_Async_CB.js** - Asynchronous callbacks
+- **150_Hell_CB.js** - Callback hell
+- **151_CB_Hell_20_step.js** - Deep callback hell example
+- **152_CB_Param.js** - Callback parameters
+- **153_CB_Return.js** - Callback return values
+
+### Chapter 16: Promises
+Promise-based asynchronous programming:
+- **154_Promise.js** - Promise basics
+- **155_REAL_API.js** - Real API promise example
+- **156_Promise_REAL_API_PART2.js** - Advanced promise API
+- **157_Finally.js** - Promise finally method
+- **158_Call_Pyramid_Problem.js** - Callback pyramid problem
+- **159_Promise_All.js** - Promise.all usage
+- **160_Promise_IQ.js** - Promise interview questions
+
+### Chapter 17: Async / Await
+Async/await for cleaner asynchronous code:
+- **161_Async.js** - Async function basics
+- **162_Async_P2.js** - Async part 2
+- **163_Py_of_DOM.js** - Pyramid of DOM async example
+- **164_Async.js** - Async patterns
+- **165_Async_Parallel.js** - Parallel async execution
+- **165_Async_Seq.js** - Sequential async execution
+- **166_IQ.js** - Async interview questions
+
+### Chapter 18: Playwright Basics
+Introduction to Playwright for browser automation:
+- **package.json** - Project dependencies (Playwright ^1.61.0)
+- **sdetlive.pdf** - Reference material
 
 ### Task: 20th May
 Practice tasks and exercises:
@@ -268,6 +446,15 @@ Practice tasks and exercises:
 ### Task: 23rd May
 Additional practice tasks:
 - **1_IQ.js** through **2_IQ.js** - Interview questions and coding challenges
+
+### Test: 03rd Jun
+Assessment tasks:
+- **QE_1.js** - Coding assessment question
+
+### Additional Resources
+- **interview.md** - Interview preparation notes
+- **javascript_string_cheat_sheet.md** - JavaScript string methods cheat sheet
+- **string_cheat_sheet.md** - String operations quick reference
 
 ---
 
