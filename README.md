@@ -218,7 +218,13 @@ LearnPlaywrightBatch2x/
 │   ├── node_modules/
 │   ├── package.json
 │   ├── package-lock.json
-│   └── sdetlive.pdf
+│   ├── playwright.config.ts
+│   ├── sdetlive.pdf
+│   └── tests/
+│       ├── codegen_tta-cart.spec.ts
+│       ├── example.spec.ts
+│       ├── Invalid_Cred.spec.ts
+│       └── Valid_cred.spec.ts
 │
 ├── Task_20th_May/
 │   ├── Qe_1.js
@@ -437,7 +443,13 @@ Async/await for cleaner asynchronous code:
 ### Chapter 18: Playwright Basics
 Introduction to Playwright for browser automation:
 - **package.json** - Project dependencies (Playwright ^1.61.0)
+- **playwright.config.ts** - Playwright test configuration (Chromium, Firefox, WebKit)
 - **sdetlive.pdf** - Reference material
+- **tests/** - Playwright test specs:
+  - `example.spec.ts` - Sample test
+  - `Valid_cred.spec.ts` - Valid credentials test
+  - `Invalid_Cred.spec.ts` - Invalid credentials test
+  - `codegen_tta-cart.spec.ts` - Codegen-generated cart test
 
 ### Task: 20th May
 Practice tasks and exercises:
