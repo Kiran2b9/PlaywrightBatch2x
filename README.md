@@ -448,7 +448,7 @@ Introduction to Playwright for browser automation:
 - **tests/** - Playwright test specs:
   - `example.spec.ts` - Sample test
   - `Valid_cred.spec.ts` - Valid credentials test
-  - `Invalid_Cred.spec.ts` - Invalid credentials test
+   - `Invalid_Cred.spec.ts` - Invalid credentials test (validates error message for wrong username/password)
   - `codegen_tta-cart.spec.ts` - Codegen-generated cart test
 
 ### Task: 20th May
